@@ -1,4 +1,5 @@
 **Python Basics tutorial**
+
 This tutorial involved learning the Python basics, inlcuding:
 - What You Can Do With Python 
 - Your First Python Program 
